@@ -1,0 +1,23 @@
+{
+  "name": "@gits5213/generic-functions",
+  "version": "1.0.0",
+  "description": "Global iTech Solutions Inc Generic Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gits5213/playwrightUitls.git"
+  },
+  "keywords": [
+    "generic",
+    "funcation"
+  ],
+  "author": "Global iTech Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gits5213/playwrightUitls/issues"
+  },
+  "homepage": "https://github.com/gits5213/playwrightUitls#readme"
+}
