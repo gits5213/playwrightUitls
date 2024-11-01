@@ -3,19 +3,19 @@
 
 
 ## Funcaitons name
-- navigateToURL
-- navigateToCurrentUrl
-- getCurrentUrl
-- getTitle
-- getText
-- getTitleContains
-- getURLContains
-- waitForVisible
-- elementToBeClickable
-- elementToBeSelected
-- getURLContains
-- switchToNewTab
-- getDropDownSelectedText
+- navigateToURL()
+- navigateToCurrentUrl()
+- getCurrentUrl()
+- getTitle()
+- getText()
+- getTitleContains()
+- getURLContains()
+- waitForVisible()
+- elementToBeClickable()
+- elementToBeSelected()
+- getURLContains()
+- switchToNewTab()
+- getDropDownSelectedText()
 
 
 # PlaywrightJS-based Automation Framework Generic Functions 
